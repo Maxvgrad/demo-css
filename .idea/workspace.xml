@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eefaa636-3f64-4898-8d01-7269463c87e9" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>bindTo</find>
+      <find>C</find>
+      <find>CSS</find>
+      <find>CSS С</find>
+      <find>CSS Се</find>
+      <find>CSS Сел</find>
+      <find>CSS Селек</find>
+      <find>CSS Селект</find>
+      <find>CSS Селекто</find>
+      <find>CSS Селекторы</find>
+      <find>CSS Селектор</find>
+      <find>CSS Селекторс</find>
+      <find>CSS Селекторс 2</find>
+      <find>CSS Селекторс 200</find>
+      <find>CSS Селекторс 2000</find>
+      <find>/* your styles here */</find>
+      <find>p</find>
+      <find>porn</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>CSS-селекторы</replace>
+      <replace>/* ваш код здесь... */</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/tasks</dir>
+    </dirStrings>
+  </component>
+  <component name="ProjectId" id="1WYfd8tO9XjRdohcLjXFwiF32ds" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eefaa636-3f64-4898-8d01-7269463c87e9" name="Default" comment="" />
+      <created>1513605989682</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513605989682</updated>
+      <workItem from="1513605991385" duration="1024000" />
+      <workItem from="1513670305513" duration="8000" />
+      <workItem from="1513670964700" duration="76000" />
+      <workItem from="1579331535880" duration="5390000" />
+      <workItem from="1580132258149" duration="146000" />
+      <workItem from="1580235089293" duration="126000" />
+      <workItem from="1580283867617" duration="306000" />
+      <workItem from="1580368873917" duration="1234000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
